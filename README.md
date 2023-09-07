@@ -67,7 +67,7 @@ If asked about crackling voice, ask : Is it only in discord or is it everywhere
 
 # HEAVY WIP RVC Channel
 APPLIO IS DEAD
-* If you open the colab and press play if you do not see the warning about it potentially canceling your runtime for others, it is not "dead." 
+* If you open the colab and press play if you do not see the warning about it potentially canceling your runtime for others, it is not "dead." image of the forbidden text https://media.discordapp.net/attachments/1089301011149103276/1149330736038555709/16940922055442004.png
 * What this means is, THE USER who is having the issues, is being targetted currently aka they continually use runtimes that have been flagged, and are now just being shutdown for a bit. Even using a different G Account wouldnt do anything, they just need to NOT use it for a bit, aka give it a week.
 
 Epoch to go for?
