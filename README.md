@@ -1,6 +1,9 @@
-# Helping-in-AI-Hub (voice changer)
+This is good enough for me so uhh cope, seethe, mald, copy everything, paste it on like gdocs and expand, should get through like 70% of all help related stuff from this already. have a nice day stinkers
 
-## Most things here are just common things compiled from my guide and Antasma's pages. 
+
+# Helping-in-AI-Hub (voice changer section)
+
+## Most things here are just common things compiled from my guide and Antasma's pages.
 
 ### Feel free to copy this elsewhere like gdocs and add the Training/Cover stuff or DM me what to add [@Yunaoneechan](https://discord.com/users/824922747423031359) 
 
@@ -65,7 +68,7 @@ If asked about crackling voice, ask : Is it only in discord or is it everywhere
 * Discord fix : https://github.com/YunaOneeChan/Voice-Changer-Settings#discord-settings
 
 
-# HEAVY WIP RVC Channel
+# HEAVY WIP RVC section
 APPLIO IS DEAD
 * If you open the colab and press play if you do not see the warning about it potentially canceling your runtime for others, it is not "dead." image of one of the forbidden texts, https://media.discordapp.net/attachments/1089301011149103276/1149330736038555709/16940922055442004.png
 * What this means is, THE USER who is having the issues, is being targetted currently aka they continually use runtimes that have been flagged, and are now just being shutdown for a bit. Even using a different G Account wouldnt do anything, they just need to NOT use it for a bit, aka give it a week.
