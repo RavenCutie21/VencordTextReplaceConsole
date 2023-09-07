@@ -1,5 +1,6 @@
 This is good enough for me so uhh cope, seethe, mald, copy everything, paste it on like gdocs and expand, should get through like 70% of all help related stuff from this already. have a nice day stinkers
 
+this is also for the clueless people tbh who just get dragged into it without knowing what the fuck is going on, or also if you are just very lazy
 
 # Helping-in-AI-Hub (voice changer section)
 
