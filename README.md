@@ -1,6 +1,6 @@
 # Helping-in-AI-Hub (voice changer)
 
-## Most things here are just common things compiled from my guide and Antasma's pages.
+## Most things here are just common things compiled from my guide and Antasma's pages. Feel free to copy this elsewhere and add the Training/Cover stuff or DM me what to add [@Yunaoneechan](https://discord.com/users/824922747423031359)
 
 ### If at any point you don't know something or are busy
 tell them to look in #info & #how-to-use, pins, or link them the guides yourself if you think they can not find pins
