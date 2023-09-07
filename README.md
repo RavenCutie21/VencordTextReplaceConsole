@@ -2,7 +2,7 @@
 
 ## Most things here are just common things compiled from my guide and Antasma's pages. 
 
-### Feel free to copy this elsewhere and add the Training/Cover stuff or DM me what to add [@Yunaoneechan](https://discord.com/users/824922747423031359) 
+### Feel free to copy this elsewhere like gdocs and add the Training/Cover stuff or DM me what to add [@Yunaoneechan](https://discord.com/users/824922747423031359) 
 
 
 
