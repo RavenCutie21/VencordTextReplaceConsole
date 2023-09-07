@@ -65,7 +65,7 @@ If asked about crackling voice, ask : Is it only in discord or is it everywhere
 * Discord fix : https://github.com/YunaOneeChan/Voice-Changer-Settings#discord-settings
 
 
-# HEAVY WIP Colab Training
+# HEAVY WIP RVC Channel
 APPLIO IS DEAD
 * If you open the colab and press play if you do not see the warning about it potentially canceling your runtime for others, it is not "dead." 
 * What this means is, THE USER who is having the issues, is being targetted currently aka they continually use runtimes that have been flagged, and are now just being shutdown for a bit. Even using a different G Account wouldnt do anything, they just need to NOT use it for a bit, aka give it a week.
