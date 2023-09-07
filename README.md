@@ -63,3 +63,15 @@ If a screenshot shows PIPELINE IS NOT INITIALIZED
 If asked about crackling voice, ask : Is it only in discord or is it everywhere
 * Everywhere fix : https://github.com/YunaOneeChan/Voice-Changer-Settings#audiodgexe-optimizations
 * Discord fix : https://github.com/YunaOneeChan/Voice-Changer-Settings#discord-settings
+
+
+# HEAVY WIP Colab Training
+APPLIO IS DEAD
+* If you open the colab and press play if you do not see the warning about it potentially canceling your runtime for others, it is not "dead." 
+* What this means is, THE USER who is having the issues, is being targetted currently aka they continually use runtimes that have been flagged, and are now just being shutdown for a bit. Even using a different G Account wouldnt do anything, they just need to NOT use it for a bit, aka give it a week.
+
+HOW MAKE COVER
+* Lazy way instead of Applio, Link SociallyIneptWeebs AI Cover Gen, it is the easiest way to do this.
+* full link : https://github.com/SociallyIneptWeeb/AICoverGen
+* colab specific link : https://colab.research.google.com/github/SociallyIneptWeeb/AICoverGen/blob/main/AICoverGen_colab.ipynb
+
