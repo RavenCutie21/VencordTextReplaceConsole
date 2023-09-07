@@ -70,6 +70,16 @@ APPLIO IS DEAD
 * If you open the colab and press play if you do not see the warning about it potentially canceling your runtime for others, it is not "dead." 
 * What this means is, THE USER who is having the issues, is being targetted currently aka they continually use runtimes that have been flagged, and are now just being shutdown for a bit. Even using a different G Account wouldnt do anything, they just need to NOT use it for a bit, aka give it a week.
 
+Epoch to go for?
+* there is no correct answer
+* just watch tensorboard and when you see "overtraining" you stop
+
+How make model or dataset for training
+* get audio, uvr it, any _ft model usually is best unless you are uvring multiple times, throw in audacity, process however you want, then
+* truncate silence @ -40db or whatever still has your voice, -0.05 length or greater, to -0.05, that is now your dataset.
+* open rvc either colab (applio) or local install, and just do it
+
+
 HOW MAKE COVER
 * Lazy way instead of Applio, Link SociallyIneptWeebs AI Cover Gen, it is the easiest way to do this.
 * full link : https://github.com/SociallyIneptWeeb/AICoverGen
