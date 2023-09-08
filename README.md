@@ -75,7 +75,7 @@ APPLIO IS DEAD
 * What this means is, THE USER who is having the issues, is being targetted currently aka they continually use runtimes that have been flagged, and are now just being shutdown for a bit. Even using a different G Account wouldnt do anything, they just need to NOT use it for a bit, aka give it a week.
 
 Epoch to go for?
-* there is no correct answer
+* there is no correct answer, just put a big number you dont think youd reach
 * just watch tensorboard and when you see "overtraining" you stop
 
 How make model or dataset for training
