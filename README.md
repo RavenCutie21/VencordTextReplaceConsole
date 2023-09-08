@@ -23,7 +23,7 @@ Ask : What is your GPU?
   
 Ask: What are your voice changer settings (screenshot) 
 * NVIDIA : Set your F0. to RMVPE if it has issues use CREPE_TINY, set your chunk to 112, if it isn't a clear voice or is stuttering go to 192, set your extra to 8192 or a maximum of 32768, this increases CPU the higher it is.
-* AMD or INTEL ARC : Set your F0. to RMVPE_ONNX if it has issues use CREPE_TINY, set your chunk to 112, if it isn't a clear voice or is stuttering go to 192, set your extra to 8192 or a maximum of 32768, this increases CPU the higher it is, set your GPU to GPU0 as 99% of the time it will be your graphics card. You can verify in Task manager under the performance tab.
+* AMD or INTEL ARC : Set your F0. to RMVPE_ONNX if it has issues use CREPE_TINY, set your chunk to 112, if it isn't a clear voice or is stuttering go to 192, set your extra to 8192 or a maximum of 32768, this increases CPU the higher it is, set your GPU to GPU0 as 99% of the time it will be your graphics card. You can verify in Task manager under the performance tab. Also remember to EXPORT model to ONNX and reupload that new file
 * Colab : Set your F0. to RMVPE_ONNX, set your chunk to 112, set your extra to 8192.
 * As far as I can tell, there is zero reason to go higher than 32768; unless you have a weird anomaly like (Haien) where his does not work unless his extra is higher.
 
