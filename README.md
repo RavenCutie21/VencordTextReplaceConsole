@@ -76,7 +76,7 @@ move more people over to local install if you can and colab's will last signific
 HOW LOCAL INSTALL
 * https://github.com/IAHispano/Applio-RVC-Fork (seems to be the most up to date, never used, what everyone uses on colab)
 * https://huggingface.co/MangioRVC/Mangio-RVC-Huggingface/tree/main + https://github.com/MrFelt/F-RVC (better defaults over mangio and just looks better)
-* https://huggingface.co/lj1995/VoiceConversionWebUI/tree/main Official local (what i use)
+* https://huggingface.co/lj1995/VoiceConversionWebUI/tree/main Official local (what i use also has better voice changer performance for amd & intel people)
 
 
 Epoch to go for?
