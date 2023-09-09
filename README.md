@@ -70,10 +70,13 @@ If asked about crackling voice, ask : Is it only in discord or is it everywhere
 
 
 # HEAVY WIP RVC section
-APPLIO IS DEAD 
-* If you open the colab and press play if you do not see the warning about it potentially canceling your runtime for others, it is not "dead." image of one of the forbidden texts, the other one specifically says they will shut your training down due to whatever reason they give, https://media.discordapp.net/attachments/1089301011149103276/1149330736038555709/16940922055442004.png
-* What this means is, THE USER who is having the issues, is being targetted currently aka they continually use runtimes that have been flagged, and are now just being shutdown for a bit. Even using a different G Account wouldnt do anything, they just need to NOT use it for a bit, aka give it a week.
-  
+Any colab with RVC in it's name dies, it is fully detected and actively getting banned just recommend people installing locally or unfortunately using something like kits.
+
+HOW LOCAL INSTALL
+* https://github.com/IAHispano/Applio-RVC-Fork (seems to be the most up to date, never used, what everyone uses on colab)
+* https://huggingface.co/MangioRVC/Mangio-RVC-Huggingface/tree/main + https://github.com/MrFelt/F-RVC (better defaults over mangio and just looks better)
+* https://huggingface.co/lj1995/VoiceConversionWebUI/tree/main Official local (what i use)
+
 
 Epoch to go for?
 * there is no correct answer, just put a big number you dont think youd reach
@@ -90,7 +93,3 @@ HOW MAKE COVER
 * full link : https://github.com/SociallyIneptWeeb/AICoverGen
 * colab specific link : https://colab.research.google.com/github/SociallyIneptWeeb/AICoverGen/blob/main/AICoverGen_colab.ipynb
 
-HOW LOCAL INSTALL
-* https://github.com/IAHispano/Applio-RVC-Fork (seems to be the most up to date, never used, what everyone uses on colab)
-* https://huggingface.co/MangioRVC/Mangio-RVC-Huggingface/tree/main + https://github.com/MrFelt/F-RVC (better defaults over mangio and just looks better)
-* https://huggingface.co/lj1995/VoiceConversionWebUI/tree/main Official local (what i use)
