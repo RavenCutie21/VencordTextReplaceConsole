@@ -73,6 +73,8 @@ If asked about crackling voice, ask : Is it only in discord or is it everywhere
 Any colab with RVC in it's name dies, it is fully detected and actively getting banned just recommend people installing locally or unfortunately using something like kits.
 move more people over to local install if you can and colab's will last significantly longer
 
+also it is just against tos so uhh pay :3
+
 HOW LOCAL INSTALL
 * https://github.com/IAHispano/Applio-RVC-Fork (seems to be the most up to date, never used, what everyone uses on colab)
 * https://huggingface.co/MangioRVC/Mangio-RVC-Huggingface/tree/main + https://github.com/MrFelt/F-RVC (better defaults over mangio and just looks better)
