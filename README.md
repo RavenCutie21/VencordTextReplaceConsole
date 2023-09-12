@@ -87,11 +87,13 @@ HOW LOCAL INSTALL
 Epoch to go for?
 * there is no correct answer, just put a big number you dont think youd reach
 * just watch tensorboard and when you see "overtraining" you stop
+* an epoch is how many times it went through the dataset aka all your audio files
 
 How make model or dataset for training
 * get audio, uvr it, any _ft model usually is best unless you are uvring multiple times, throw in audacity, process however you want, then
 * truncate silence @ -40db or whatever still has your voice, -0.05 length or greater, to -0.05, that is now your dataset. truncate silence is mandatory on large datasets
 * open rvc either colab (applio) or local install, and just do it
+
 
 
 HOW MAKE COVER
