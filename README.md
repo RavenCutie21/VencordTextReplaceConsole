@@ -75,6 +75,9 @@ move more people over to local install if you can and colab's will last signific
 
 also it is just against tos so uhh pay :3
 
+Kaggle is what everyone is going to now since colab is banned
+
+
 HOW LOCAL INSTALL
 * https://github.com/IAHispano/Applio-RVC-Fork (seems to be the most up to date, never used, what everyone uses on colab)
 * https://huggingface.co/MangioRVC/Mangio-RVC-Huggingface/tree/main + https://github.com/MrFelt/F-RVC (better defaults over mangio and just looks better)
