@@ -1,0 +1,2 @@
+console.log(`await Vencord.Api.DataStore.set("TextReplace_rulesString", ${JSON.stringify(await Vencord.Api.DataStore.get('TextReplace_rulesString'))})`)
+console.log(`await Vencord.Api.DataStore.set("TextReplace_rulesRegex", ${JSON.stringify(await Vencord.Api.DataStore.get('TextReplace_rulesRegex'))})`)
